@@ -6,5 +6,3 @@ import seaborn as sns
 
 df=pd.read_csv('/Users/arijitsengupta/Documents/Education/ML AI/DataSets/EDA_Gold_Silver_prices.csv')
 df.head()
-
-#comment to be reverted
